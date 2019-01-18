@@ -1,6 +1,4 @@
-# sevilla-sail
-
-a [Sails v1](https://sailsjs.com) application
+[Sails v1](https://sailsjs.com) application
 
 
 ### Links
