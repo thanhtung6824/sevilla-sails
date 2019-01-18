@@ -60,7 +60,7 @@
     "eqeqeq":                       ["error", "always"],
     "eol-last":                     ["warn"],
     "handle-callback-err":          ["error"],
-    "indent":                       ["warn", 4, {
+    "indent":                       ["warn", 2, {
       "SwitchCase": 1,
       "MemberExpression": "off",
       "FunctionDeclaration": {"body":1, "parameters":"off"},
